@@ -1,0 +1,10 @@
+h1{
+  text-decoration-style: bold;
+  inherit: lightgray;
+}
+table{
+  background-color : lightblue plum;
+}
+td{
+  text-decoration: underline;
+}
